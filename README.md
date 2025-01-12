@@ -1,1 +1,6 @@
-# RAG_Research
+# RAG Research
+
+## Methods
+
+
+## Benchmark
