@@ -9,9 +9,9 @@
 4. **LangChain** 
 
 ## Translators
-1. Google Translate API
-2. DeepL Translator
-3. OpenAI Whisper
+1. LibreTranslate
+2. DeepL Translator (free?!)
+3. OpenAI Whisper 
 4. Microsoft Translator
 
 ## Benchmarks
@@ -19,12 +19,12 @@
    MCQ format.
    Provides Large context -> proper to test Q/A from given doc.
    Need Translation
-2. PersianQA (kaggle): \
+2. PersianQA: \
+   https://github.com/sajjjadayobi/PersianQA
    One word answers. Context is short (1-2 paragraph). Questions are easy to answer. \
-   18 topics and each ~ quesitons -> it's small!
-3.  PersianQuad: \
+3. PersianQuad: \
    https://github.com/Forutanrad/FarsiQuAD/tree/main
-
+   Similar to previous one.
 
 ## Notes
 1. There are some persian LLM benchmarks -> might be useful for Fine-tuning: \
