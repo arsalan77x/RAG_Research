@@ -31,3 +31,4 @@
    https://github.com/ParsBench/ParsBench \
    https://github.com/sajjjadayobi/PersianQA
 2. Benchmarks have Train,Dev,Test which can be useful for training.
+3. Check: https://colab.research.google.com/github/deepset-ai/haystack-cookbook/blob/main/notebooks/query-expansion.ipynb
