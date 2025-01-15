@@ -130,5 +130,5 @@ It says that adding context to each chunk improve the retrieval as depicted in t
 4. Cuconasu et al. in The Power of Noise: Redefining Retrieval for RAG Systems
  says: Surprisingly, random documents (completely unrelated to the query) improve model accuracy by up to 35% when added to the prompt. This finding challenges traditional assumptions about information retrieval in RAG systems.
 
-## 6. TODO:
+## 6. TODO
 Based on information above promising techniques that should be tested are: 1- Contextual Retrieval 2- Reciprocal and step-down technique 3- Hybrid Database (Dense and Sparse) + Reranker 4- Compare these with Graph-RAG 5- Compare storing documents in English with Persian.
